@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me
 
-<!--
-**ce7er2s/ce7er2s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't **larp**, I'm too **lazy**.
+Somewhat fluent with C/Python/Golang.
+I've created Goon Public License.
+I'm the CEO of htmx (though it's very common to see one nowadays, at least act surprised).
+Worked as a pentester (it was tough, let's just say in reality it is not a :trollface: but a :finnadie:).
+Now working as a Juniour System Developer (Golang it is :shipit:).
 
-Here are some ideas to get you started:
+## Software I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Zed (they finnaly made 1.0 release, yay!)
+Floorp (sussy sounding yet the best Firefox flavour)
+Wezterm (I'm trying to pick up Ghostty on my Linux systems)
