@@ -5,6 +5,7 @@ I don't **larp**, I'm too **lazy**.
 Somewhat fluent with C/Python/Golang.
 
 I've created Goon Public License.
+Check out `stress` repo, really good one
 
 I'm the CEO of htmx (though it's very common to see one nowadays, at least act surprised).
 
