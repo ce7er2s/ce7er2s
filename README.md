@@ -12,7 +12,7 @@ I'm the CEO of htmx (though it's very common to see one nowadays, at least act s
 
 Worked as a pentester (it was tough, let's just say in reality it is not a :trollface: but a :finnadie:).
 
-Now working as a Juniour System Developer (Golang it is :shipit:).
+Now working as a Junior System Developer (Golang it is :shipit:).
 
 ## Software I use
 
